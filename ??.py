@@ -69,7 +69,7 @@ async def on_message(message):
   if message.content.startswith('pull'):
     pass
   
-
+ # AMOGUS 
 
 
 client.run('')
